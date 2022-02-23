@@ -3,5 +3,4 @@ sqlalchemy
 streamlit
 streamlit_authenticator
 datetime
-random
 pandas
