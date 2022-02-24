@@ -2,5 +2,6 @@ psycopg2-binary
 sqlalchemy
 streamlit
 streamlit_authenticator
+hydralit_components 
 datetime
 pandas
