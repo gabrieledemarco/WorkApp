@@ -1,6 +1,6 @@
-user = 'vdsplrbp'
-password = 'YtEACg9X2sfiBDkHX0zPwfS_wN2gpkn6'
+user = 'hlsioziq'
+password = 'rLQ_kg6Km32iOBDmIVT8vkxJLwEmHp4o'
 host = 'tyke.db.elephantsql.com'
 port = 5432
-db = 'vdsplrbp'
+db = 'hlsioziq'
 default_fetc_size = 1000
